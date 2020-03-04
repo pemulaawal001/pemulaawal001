@@ -1,0 +1,39 @@
+{
+
+ "Account": {
+     "Username": "berhasilmasuk003",
+     "Password": "selamet789"
+     },
+ "Target Profit": "0.1",
+ "Target Win": "100.00000000",
+ "Lose Target": "0",
+ "Interval": "100",
+ "Config": [{
+
+     "Name Bet Set": "Mining",
+     "Base Bet": "0.001",
+     "Max Bet": "OFF",
+     "Chance": "75",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "60",
+          "Max": "65"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "2",
+              "If Win": "5"
+            }
+        },
+     "If Win": "0.6",
+     "If Lose": "4",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Interval": "100"
+     }
+  ],
+  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+
+}
